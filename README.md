@@ -1,3 +1,12 @@
+# flutter-weather-clock
+
+first steps in flutter. fork of weather_clock
+
+shows a clock and current weather information
+
+![screenshot](./Screenshot.png)
+
+
 # weather_clock
 
 A new Flutter application.
